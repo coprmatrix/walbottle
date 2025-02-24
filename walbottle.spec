@@ -7,6 +7,8 @@ License:        LGPL
 URL:            https://github.com/pwithnall/walbottle/
 Source:         %{name}-%{version}.tar.gz
 
+%define soname walbottle-0
+
 BuildRequires: 	meson
 BuildRequires: 	gcc
 BuildRequires: 	pkg-config
