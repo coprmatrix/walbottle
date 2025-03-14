@@ -1,6 +1,6 @@
 Name:           walbottle
 Version:        2.0
-Release:        1%{?dist}
+Release:        2%{?dist}
 Summary:        Walbottle is a project for generating JSON unit test vectors from JSON Schemas.
 
 License:        LGPL

@@ -1,3 +1,0 @@
-[submodule ".copr"]
-	path = .copr
-	url = https://github.com/huakim/obs-tools
